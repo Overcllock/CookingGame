@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce046c6db01f4c48abe8a429725c5bfb, type: 3}
+  m_Name: Guest_Green
+  m_EditorClassIdentifier: 
+  _id: Green
+  icon:
+    m_AssetGUID: cbb338b33765f40d2b04b54d803786bd
+    m_SubObjectName: Btn_MainButton_Green
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 1
+  minRecipesCount: 1
+  maxRecipesCount: 3

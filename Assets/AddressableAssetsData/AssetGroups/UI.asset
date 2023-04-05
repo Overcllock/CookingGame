@@ -1,0 +1,301 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0f8fefe2476ae5b41b5404bce9a61af2
+  m_SerializeEntries:
+  - m_GUID: 63869f537cb7ed84fb70b8c7cb63ccbb
+    m_Address: HUD
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Window
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2b115471649d0b4a82bdba95062042e
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Window
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d83002fab6414d499dd3caddf73ccab
+    m_Address: PauseWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Window
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8c9601cfc2b91498387ead8612b76c
+    m_Address: GameFieldWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Window
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 424058412148a6340aaa7dc84f7ab8b4
+    m_Address: EndGameWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Window
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 643ab1e74021d434ca614b50ac4ce844
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_Blue.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f139613dc3ca24233a05524c5162cdd8
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_Bluegreen.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f50362e3fa90440b8caef63181d40de
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_Brown.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbb338b33765f40d2b04b54d803786bd
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_Green.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36267bcf5b2d343cdadf8a4766598974
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_Purple.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f27cdb744c7b4f4aba46139d40a63f1
+    m_Address: Assets/GUI Kit The Stone/ResourceData/Sprites/Component/Button/Btn_MainButton_red.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 006599a68be783041a2422a1c82ab360
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Sugar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9adbd715b12427e41af1f311cd75d0eb
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Turnips.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eedc5bab129cb8549998cc98eeb4e1d0
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Sugar 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 668966247c3687341adea537c511f01f
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Flour.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 775fe9c0fc5d03446ba77a2b96901482
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Beef.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 992ea86eb737dec44b8ccc1aaee19d93
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Eggs.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446dea87b4d2e0c418ffe55c0f217444
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Carrot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a8c902761520204e9c5673212be0db6
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/White Cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01c64c930886c194e898f6deda7e9b32
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Parsnips.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a12195643ce018d49b222b81ac6fd38a
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Rice.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bee1a61b11f83cf4286a666d3740b6f9
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Crab.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11ce318045b7d544b9a9911499371771
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Fish.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb95d35478bad4043a416ded82b2c14e
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Salt.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19769f061071a154ea37eb874547575f
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Garlic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc692fc6f6d2dd4b8a8b62eb377ac8a
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Honey.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3e8c3ef0cdeb854cab9dd8928c5a767
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Oysters 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49b2612c8d0d84e418d436c789df858d
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Oysters 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d74219fdf9b924482b9beaeb0b00ed
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Chicken.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b384219b70feac94fb69259abeacf91b
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Octopus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abc144d43bffa84469993646bd25c82b
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 131fdf99828258247bf8c9bdebfec14c
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Lobster.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a02bba35ec1b074cac9b200cab1e1f5
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Onions.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0f3413df1f3fbd45bc09b38b6c73d1b
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Clams.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9896b042e3e38844cac227bc4afdffb4
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Vinegar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e524dca915a58b408f62e67123ce912
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Olive oil.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3ad846555a904845a4d755c6095dfde
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Potatoes.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e1f1e5294c8743418c3ee1a6af2c9c5
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Beans.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a10997e0f0fe4d4f8f24223d23ad22c
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Shrimp.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2cfb673dc7502744a03e06d2bf5e23d
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Blue Cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41993a5287dda004b88572dbe23f420a
+    m_Address: Assets/PixelVibe 67 Cooking Ingredients Prepared Dishes Food Icons
+      Pack/Cooking Ingredients/Butter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2a24ecc94d1d2864f9fcdcd4b5057457, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 503709c6fc367234597ad59a72bbc115, type: 2}
+    - {fileID: 11400000, guid: 426b67d678619a64ab8544728f082d88, type: 2}
