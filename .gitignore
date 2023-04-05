@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Uu]serSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +59,21 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# macOS system files
+.DS_Store
+
+# Rider cache directory
+.idea/
+*.csv#
+
+# Odin Inspector
+/Assets/Plugins/Sirenix/Assemblies/AOT/*
+/Assets/Plugins/Sirenix/Demos/*
+!/Assets/Plugins/Sirenix/Demos/*.unitypackage 
+
+/Assets/Resources/SelectedContext.meta
+/Assets/Resources/SelectedContext/*
+/Assets/Resources/GameStates.meta
+/Assets/Resources/GameStates/*
+/Assets/_GameStates/Local.meta
+/Assets/_GameStates/Local/*
